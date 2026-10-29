@@ -8,7 +8,7 @@ function App() {
           className="w-120 h-auto" /* Ajuste o tamanho da imagem aqui */
         />
 
-        <h1 className="text-[90px] font-bold text-center">Guia Horoscopo</h1>
+        <h1 className="text-[90px] font-bold text-center">Guia Horóscopo</h1>
       </div>
     </>
   );
